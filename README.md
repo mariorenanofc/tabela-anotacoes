@@ -15,7 +15,13 @@ Este é um projeto de desenvolvimento de tabela de anotações usando o framewor
 
 ##Instalação
 
-1. Clone este repositório
-2. Execute `npm install` para instalar as dependências
-3. Execute `npm run serve` para iniciar a aplicação
+- Clone este repositório
+- Execute `npm install` para instalar as dependências
+- Execute `npm run serve` para iniciar a aplicação
 
+## Como Contribuir
+- Realize um fork deste projeto
+- Crie sua branch de funcionalidade `(git checkout -b feature/<nome-da-funcionalidade>)`
+- Commit suas alterações (git commit `-m 'Adicionando <nome-da-funcionalidade>')`
+- Realize o push para a branch `(git push origin feature/<nome-da-funcionalidade>)`
+- Crie um Pull Request
